@@ -53,3 +53,4 @@
 
 /public/images/uploads/
 .env.local
+.idea/
